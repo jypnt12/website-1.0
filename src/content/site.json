@@ -1,0 +1,89 @@
+{
+  "brand": {
+    "name": "Lumina",
+    "tagline": "Clarity for modern teams",
+    "logo": {
+      "src": "/images/logo.svg",
+      "alt": "Lumina",
+      "width": 32,
+      "height": 32
+    }
+  },
+  "metadata": {
+    "title": "Lumina — Soft tools for focused work",
+    "description": "A calm, configurable workspace that helps teams plan, ship, and refine with less noise and more clarity."
+  },
+  "theme": {
+    "accent": "#5b6cff",
+    "surface": "#e6e9ef",
+    "radiusScale": "md"
+  },
+  "nav": {
+    "links": [
+      { "label": "Features", "href": "#features" },
+      { "label": "Benefits", "href": "#benefits" },
+      { "label": "Stories", "href": "#testimonials" },
+      { "label": "Pricing", "href": "#cta" }
+    ],
+    "cta": {
+      "label": "Start free",
+      "href": "#cta"
+    }
+  },
+  "footer": {
+    "blurb": "Lumina helps product teams stay clear-headed while shipping work that matters.",
+    "columns": [
+      {
+        "title": "Product",
+        "links": [
+          { "label": "Features", "href": "#features" },
+          { "label": "Benefits", "href": "#benefits" },
+          { "label": "Changelog", "href": "#" },
+          { "label": "Roadmap", "href": "#" }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          { "label": "About", "href": "#" },
+          { "label": "Careers", "href": "#" },
+          { "label": "Press", "href": "#" },
+          { "label": "Contact", "href": "#" }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          { "label": "Docs", "href": "#" },
+          { "label": "Guides", "href": "#" },
+          { "label": "Support", "href": "#" },
+          { "label": "Status", "href": "#" }
+        ]
+      }
+    ],
+    "social": [
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com",
+        "icon": "twitter"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://linkedin.com",
+        "icon": "linkedin"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com",
+        "icon": "github"
+      }
+    ],
+    "newsletter": {
+      "title": "Stay in the loop",
+      "description": "Product notes and design tips, once a month.",
+      "placeholder": "you@company.com",
+      "buttonLabel": "Subscribe"
+    },
+    "legal": "© 2026 Lumina. All rights reserved."
+  }
+}

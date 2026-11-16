@@ -1,0 +1,185 @@
+{
+  "slug": "home",
+  "sections": [
+    {
+      "type": "hero",
+      "id": "hero",
+      "eyebrow": "Workspace, refined",
+      "headline": "Quiet tools for teams that move with intention",
+      "subcopy": "Lumina brings planning, feedback, and delivery into one soft, focused surface—so your team spends less time juggling apps and more time doing meaningful work.",
+      "primaryCta": {
+        "label": "Start free trial",
+        "href": "#cta"
+      },
+      "secondaryCta": {
+        "label": "See how it works",
+        "href": "#features"
+      },
+      "trustLine": "Trusted by product teams at Northline, Atlas, and Harbor.",
+      "image": {
+        "src": "/images/hero-illustration.svg",
+        "alt": "Abstract dashboard composition with soft cards and charts",
+        "width": 640,
+        "height": 520
+      },
+      "stats": [
+        { "label": "Teams onboarded", "value": "2.4k+" },
+        { "label": "Avg. setup time", "value": "12 min" },
+        { "label": "CSAT", "value": "98%" }
+      ]
+    },
+    {
+      "type": "features",
+      "id": "features",
+      "eyebrow": "Capabilities",
+      "title": "Everything you need, nothing you don’t",
+      "description": "A modular toolkit that stays calm under pressure—built for clarity, not clutter.",
+      "items": [
+        {
+          "icon": "layers",
+          "title": "Unified workspace",
+          "description": "Projects, docs, and decisions live side by side with a consistent visual language.",
+          "emphasized": true
+        },
+        {
+          "icon": "spark",
+          "title": "Guided focus modes",
+          "description": "Temporarily dim noise and surface only the work that needs attention right now."
+        },
+        {
+          "icon": "shield",
+          "title": "Private by default",
+          "description": "Role-aware access and audit-friendly trails without turning collaboration into bureaucracy."
+        },
+        {
+          "icon": "zap",
+          "title": "Instant handoffs",
+          "description": "Share polished briefs and status updates in one click—no formatting gymnastics."
+        },
+        {
+          "icon": "chart",
+          "title": "Progress signals",
+          "description": "Lightweight metrics that show momentum without drowning you in dashboards."
+        },
+        {
+          "icon": "users",
+          "title": "Team rituals",
+          "description": "Recurring check-ins and reviews that feel intentional, not obligatory."
+        }
+      ]
+    },
+    {
+      "type": "benefits",
+      "id": "benefits",
+      "eyebrow": "Why Lumina",
+      "title": "Designed for depth, not distraction",
+      "description": "Soft interfaces, sharp outcomes. Every surface is tuned for readability and flow.",
+      "items": [
+        {
+          "title": "Reduce tool sprawl",
+          "description": "Replace scattered docs, chat threads, and status sheets with a single calm source of truth.",
+          "image": {
+            "src": "/images/benefit-workspace.svg",
+            "alt": "Connected workspace cards floating on a soft surface",
+            "width": 520,
+            "height": 400
+          },
+          "checklist": [
+            "One home for plans and decisions",
+            "Fewer context switches per day",
+            "Shared language across roles"
+          ],
+          "metric": {
+            "label": "Less context switching",
+            "value": 72,
+            "display": "72%"
+          },
+          "imagePosition": "right"
+        },
+        {
+          "title": "Ship with quieter confidence",
+          "description": "Keep stakeholders informed with clear narratives instead of noisy update rituals.",
+          "image": {
+            "src": "/images/benefit-clarity.svg",
+            "alt": "Soft progress rings and checklist on a raised card",
+            "width": 520,
+            "height": 400
+          },
+          "checklist": [
+            "Readable progress at a glance",
+            "Handoffs that preserve intent",
+            "Reviews that stay on schedule"
+          ],
+          "metric": {
+            "label": "Faster weekly reviews",
+            "value": 45,
+            "display": "45%"
+          },
+          "imagePosition": "left"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "id": "testimonials",
+      "eyebrow": "Customer stories",
+      "title": "Teams that chose calm over chaos",
+      "description": "Product leaders describe how Lumina changed the texture of their week.",
+      "items": [
+        {
+          "quote": "We finally have a workspace that feels as considered as the products we build. The soft UI isn’t just aesthetic—it keeps people focused.",
+          "name": "Maya Chen",
+          "role": "Head of Product",
+          "company": "Northline",
+          "avatar": {
+            "src": "/images/avatar-1.svg",
+            "alt": "Portrait of Maya Chen",
+            "width": 64,
+            "height": 64
+          },
+          "rating": 5
+        },
+        {
+          "quote": "Handoffs used to leak context. Lumina’s briefs keep the ‘why’ intact, so engineering and design stay aligned without extra meetings.",
+          "name": "Jordan Blake",
+          "role": "Engineering Manager",
+          "company": "Atlas Labs",
+          "avatar": {
+            "src": "/images/avatar-2.svg",
+            "alt": "Portrait of Jordan Blake",
+            "width": 64,
+            "height": 64
+          },
+          "rating": 5
+        },
+        {
+          "quote": "The neumorphic surfaces sound like a detail, but they make the whole product feel tangible. Our team adopted it in a week.",
+          "name": "Priya Nair",
+          "role": "Design Director",
+          "company": "Harbor",
+          "avatar": {
+            "src": "/images/avatar-3.svg",
+            "alt": "Portrait of Priya Nair",
+            "width": 64,
+            "height": 64
+          },
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "id": "cta",
+      "title": "Give your team a quieter place to work",
+      "description": "Start free, invite your crew, and configure every section of your landing experience—and your workspace—from simple JSON-friendly settings.",
+      "primaryCta": {
+        "label": "Start free trial",
+        "href": "#"
+      },
+      "secondaryCta": {
+        "label": "Talk to sales",
+        "href": "#"
+      }
+    }
+  ]
+}
